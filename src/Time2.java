@@ -1,4 +1,3 @@
-import java.sql.Time;
 
 public class Time2 {
     private int hour; // 0-23
